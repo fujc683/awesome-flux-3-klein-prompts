@@ -37,7 +37,7 @@ FLUX 3 Klein is known for open-weight FLUX 3 with layout control. This collectio
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-21
+- Last updated: 2026-10-26
 - apimart.ai/model/flux-3-image-klein
 
 ## Browse by Category
