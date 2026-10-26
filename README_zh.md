@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 在 APIMart 上用 FLUX 3 Image Klein 生成 · apimart.ai/model/flux-3-image-klein](https://gola.apimart.ai/k-68FYSh)**
+
+`https://gola.apimart.ai/k-68FYSh`
 [💰 Pricing](https://gola.apimart.ai/k-vlbX40) · [🔑 Get an API key](https://gola.apimart.ai/k-CfdWTb)
 
 
